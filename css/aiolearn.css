@@ -1,0 +1,145 @@
+@font-face {
+    font-family: majid;
+    src: url('../font/iransans.ttf');
+}
+
+
+.btn_old{
+    background-color: rgb(77, 255, 86);
+    color: rgb(214, 214, 214);
+    background-color:rgb(104, 104, 104);
+    border:1px solid rgb(255, 255, 255);
+
+  
+    margin: 10px;
+    padding: 10px 25px; 
+   
+}
+
+
+#btn_send{
+ 
+  
+
+
+}
+
+.navbar-brand{
+font-size:18px ;
+}
+
+
+button{
+font-size: 20px;
+font-family: 'majid';
+}
+
+
+body{
+    background-image: url('../b.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: majid;
+}
+
+
+.div1{
+    background-color: rgba(0, 0, 0,0.4);
+    height: 60px; 
+    direction: rtl;
+    text-align: center;
+    padding-top: 20px;
+    /* text-shadow: 2px 2px rgb(255, 255, 255); */
+    font-size: 16px;
+    font-weight: bold;
+    transition: 0.5s;
+    border-radius: 15px;
+    color: white;
+}
+
+ 
+.div1:hover{
+    background-color: rgba(0, 0, 0,0.3);
+    
+}  
+
+
+.img1{
+    width:50%;
+    max-width: 400px;
+    opacity: 0.7;
+    transition: 1s;
+    border-radius: 15px;
+    box-shadow: 0px 5px 8px 0px #0000005c;
+}
+
+.img1:hover{
+    opacity: 1;
+    
+}
+
+
+.dropdown { 
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #94ffa2;
+    min-width: 100px;
+    box-shadow: 2px 6px 22px 3px #00000085;
+    padding: 9px 30px;
+    /* z-index: 2; */
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
+  .bg-body-tertiary{
+    background-color: #ffffff8c !important;
+    box-shadow: 0px 0px 7px 4px #0000004f;
+  }
+
+
+  .div2{
+    background-color: red;
+    height: 100px;
+    display: block;
+  }
+
+
+  .div_in{
+    background-color: blue;
+    height: 50px;
+  }
+
+  .input1{
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    padding: 10px;
+  }
+/* 
+
+  .table1 th{
+    background-color: rgba(255, 255, 255, 0.699);
+  }
+
+  .table1 td{
+    background-color: rgba(255, 255, 255, 0.479);
+  } */
+
+
+  .table1 {
+   /* margin-left: 20px;
+   margin-right: 20px; */
+  }
+
+
+  .div_table{
+padding: 20px;
+  }
